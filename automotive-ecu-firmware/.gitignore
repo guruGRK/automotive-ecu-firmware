@@ -1,0 +1,16 @@
+# Build files
+*.o
+*.elf
+*.bin
+*.hex
+
+# Keil
+*.uvprojx
+*.uvoptx
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
